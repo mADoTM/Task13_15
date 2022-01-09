@@ -2,7 +2,7 @@
 ![alt text](1.jpg)
 ![alt text](2.jpg)
 
-Демонстрация работы игры - https://github.com/mADoTM/Task13_15
+Демонстрация работы игры - https://youtu.be/Uq7DoQGqlq8
 
 
 P.S. 
